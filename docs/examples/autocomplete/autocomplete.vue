@@ -58,7 +58,7 @@ const createFilter = (queryString: string) => {
 }
 const loadAll = () => {
   return [
-    { value: 'vue', link: 'https://github.com/vuejs/vue' },
+    { value: 'vue1', link: 'https://github.com/vuejs/vue' },
     { value: 'element', link: 'https://github.com/ElemeFE/element' },
     { value: 'cooking', link: 'https://github.com/ElemeFE/cooking' },
     { value: 'mint-ui', link: 'https://github.com/ElemeFE/mint-ui' },
